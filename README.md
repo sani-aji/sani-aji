@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SANI AJI
 ================================================================================================================================
 
-Data Scientist
+Data Science Enthusiast
 --------------
 
 I am a mathematics researcher and an aspiring data scientist. I have a keen interest in Artificial Intelligence, specifically, applying Machine Learning and Deep Learning models to solve real-world problems in areas related to Computer Vision and NLP
