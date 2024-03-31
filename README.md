@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Enthusiast
 --------------
 
-I am a mathematics researcher and an aspiring data scientist. I have a keen interest in Artificial Intelligence, specifically, applying Machine Learning and Deep Learning models to solve real-world problems in areas related to Computer Vision and NLP
+I am a mathematics researcher and data science enthusiast. I have a keen interest in Artificial Intelligence, specifically, applying Machine Learning and Deep Learning models to solve real-world problems in areas related to Computer Vision and NLP
 
 * ✉️  You can contact me at [saniajy@gmail.com](mailto:saniajy@gmail.com)
 * 🧠  I'm learning Data Science and Machine Learning
